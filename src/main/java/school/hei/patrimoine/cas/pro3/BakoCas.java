@@ -2,7 +2,6 @@ package school.hei.patrimoine.cas.pro3;
 
 
 import school.hei.patrimoine.cas.Cas;
-import school.hei.patrimoine.modele.Argent;
 import school.hei.patrimoine.modele.Devise;
 import school.hei.patrimoine.modele.Personne;
 import school.hei.patrimoine.modele.possession.Compte;
@@ -10,10 +9,8 @@ import school.hei.patrimoine.modele.possession.FluxArgent;
 import school.hei.patrimoine.modele.possession.Materiel;
 import school.hei.patrimoine.modele.possession.Possession;
 
-import java.time.Month;
 import java.util.Set;
 import java.time.LocalDate;
-import java.util.Map;
 
 import static java.time.Month.APRIL;
 import static java.time.Month.DECEMBER;
